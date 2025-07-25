@@ -1,0 +1,13 @@
+﻿html{    background-color:black;
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    font: "Arial";
+}
+.white{
+    background-color: red;
+    font-size: 25px;
+    font-family: Courier New;
+    width: 600px;
+}
