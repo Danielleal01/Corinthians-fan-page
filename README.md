@@ -4,15 +4,15 @@ Este é um projeto prático desenvolvido no curso **Full-Stack Developer (Mimo)*
 
 ## Tecnologias:
 - HTML5
-- CSS3 (em breve)
-
+- CSS3
+  
 ## Status:
-🚧 Em desenvolvimento — concluída a estrutura inicial em HTML.
+🚧 Em desenvolvimento — concluída a estrutura inicial simples em HTML e CSS.
 
 ## Curso:
-Mimo – Full-Stack Developer (Intro to Web Development – Lição 11)
+Mimo – Full-Stack Developer (Cursando)
 
 ## Autor:
 Daniel Leal dos Santos
 
-🔗 Em breve: Versão hospedada no GitHub Pages
+🔗Versão hospedada no GitHub Pages
