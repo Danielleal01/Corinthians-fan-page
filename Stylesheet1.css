@@ -1,13 +1,21 @@
-﻿html{    background-color:black;
+html{    background-color:black;
     color: white;
     font-family: cursive;
     font-style: italic;
     font-weight: bold;
     font: "Arial";
+    text-align: center;
 }
 .white{
     background-color: red;
     font-size: 25px;
     font-family: Courier New;
-    width: 600px;
+    border: solid 1px;
+    border-radius: 20px;
+    margin: center;
+}
+img{
+    margin: center;
+    height: 250px;
+    width: 250px;
 }
